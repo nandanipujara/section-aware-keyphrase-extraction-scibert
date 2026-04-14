@@ -68,3 +68,11 @@ Python, PyTorch, Hugging Face, SciBERT, scikit-learn, NumPy, Pandas
 
 ### 🔹 Performance Comparison
 ![Metrics](results/metrics.jpeg)
+
+## ▶️ How to Run
+
+1. Install dependencies:
+pip install -r requirements.txt
+2. Open the notebook:
+keyphrase_extraction_scibert.ipynb
+3. Run all cells to train and test the model.

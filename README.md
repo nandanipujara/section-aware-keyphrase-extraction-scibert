@@ -9,12 +9,14 @@ Section-aware input: [TITLE] + [ABSTRACT]
 Token classification approach
 TF-IDF baseline comparison
 Evaluation using Precision, Recall, F1-score
+
 🧠 Approach
 Combine title and abstract with special tokens
 Generate BIO labels from keyphrases
 Tokenize using SciBERT tokenizer
 Fine-tune model for token classification
 Reconstruct keyphrases from predictions
+
 📊 Dataset
 
 KP20K dataset (scientific papers):
@@ -27,6 +29,7 @@ https://huggingface.co/datasets/midas/kp20k
 📈 Results
 TF-IDF F1-score: 0.09
 SciBERT F1-score: 0.40 ✅
+
 📌 Example
 
 Input:

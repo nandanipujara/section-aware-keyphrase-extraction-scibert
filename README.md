@@ -58,3 +58,13 @@ Output:
 
 Python, PyTorch, Hugging Face, SciBERT, scikit-learn, NumPy, Pandas
 
+## 📊 Results & Visualization
+
+### 🔹 Model Architecture
+![Architecture](results/architecture.png)
+
+### 🔹 Sample Output
+![Output](results/sample_output.png)
+
+### 🔹 Performance Comparison
+![Metrics](results/metrics.png)
